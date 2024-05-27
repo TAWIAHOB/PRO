@@ -1,0 +1,73 @@
+body{
+background-color: lavender;
+
+
+
+}
+
+ nav a{
+       float: right;
+       margin:10px;
+       text-decoration: none;
+       padding-top: 29px;
+       padding-left: 19px;
+       }
+
+ h1{
+ 	background-color: none;
+ 	margin: auto;
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+ 	padding-left: 60px;
+ }
+
+
+ img{
+width: 100%;
+border-width:24px ;
+    position: absolute;
+
+ }
+
+#introduction{
+  border: 2px solid;
+  position: relative;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  margin-bottom: 33px;
+     top:100px;
+     width: 300px;
+     margin-left: 450px;
+     background-size: cover;
+   }
+.tt{background-color: lightblue;
+    color: white;
+}
+
+
+.mika{
+    
+     color: white;
+     position: relative;
+     left: 20px;
+    }
+
+
+.pp{border: 20px;
+	position: relative;
+    left: 30%;
+    bottom: 19px;
+    }
+
+    button{
+    	background-color: lightblue;
+    	color: white;
+    	border-radius: 8px;
+    	position: relative;
+    	left: 12px;
+    	border: none;
+    }
+
+
+ 
+ 
